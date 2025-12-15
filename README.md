@@ -78,3 +78,4 @@
 
 ## 6. youtube 영상
 https://youtu.be/11mVrU_ipw4
+(실시간 감정분석이기 때문에 따로 사이트에서 실행 x)
